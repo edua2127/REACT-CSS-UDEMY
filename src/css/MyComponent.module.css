@@ -1,0 +1,7 @@
+.titulo {
+    color: red;
+    background-color: black;
+    border-color: red;
+    border-width: 5px;
+    padding: 15px;
+}
